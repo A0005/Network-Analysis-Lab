@@ -1,4 +1,4 @@
-<h1>WireShark</h1>
+<h1>Wireshark</h1>
 
 Course Security Blue Team - Introduction to Network Analysis  
 
@@ -9,14 +9,14 @@ This project is an introduction to Wireshark.
 
 <h2>Environments Used </h2>
 
-- <b>WireShark</b>
+- <b>Wireshark</b>
 
 
 
 <h2>Program walk-through:</h2>
 
 <!-- <p align="center"> --!>
-1 - First go to the following URL https://www.wireshark.org/download.html and download and install WireShark. <br/>
+1 - First go to the following URL https://www.wireshark.org/download.html and download and install Wireshark. <br/>
 2 - Here I am capturing some packets. <br/>
 <img width="900" alt="1" src="https://user-images.githubusercontent.com/103763124/216827612-c27d647f-acfd-463f-b29f-1c59c2f89d5b.png">
 <br />
